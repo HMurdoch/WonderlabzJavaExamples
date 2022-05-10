@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accessing_data_mysql_06/accessing_data_mysql_06.iml" filepath="$PROJECT_DIR$/accessing_data_mysql_06/accessing_data_mysql_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/async_method_05/async_method_05.iml" filepath="$PROJECT_DIR$/async_method_05/async_method_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/building_rest_01/building_rest_01.iml" filepath="$PROJECT_DIR$/building_rest_01/building_rest_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/building_rest_02/building_rest_02.iml" filepath="$PROJECT_DIR$/building_rest_02/building_rest_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consuming_rest_02/consuming_rest_02.iml" filepath="$PROJECT_DIR$/consuming_rest_02/consuming_rest_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq_broker_03/rabbitmq_broker_03.iml" filepath="$PROJECT_DIR$/rabbitmq_broker_03/rabbitmq_broker_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_data_jpa_04/spring_data_jpa_04.iml" filepath="$PROJECT_DIR$/spring_data_jpa_04/spring_data_jpa_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wonderlabz.iml" filepath="$PROJECT_DIR$/wonderlabz.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/building_rest_01/pom.xml" />
+        <option value="$PROJECT_DIR$/consuming_rest_01/pom.xml" />
+        <option value="$PROJECT_DIR$/building_rest_02/pom.xml" />
+        <option value="$PROJECT_DIR$/consuming_rest_02/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq_broker_03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_data_jpa_04/pom.xml" />
+        <option value="$PROJECT_DIR$/asyn_methods_05/pom.xml" />
+        <option value="$PROJECT_DIR$/async_method_05/pom.xml" />
+        <option value="$PROJECT_DIR$/accessing_data_mysql_06/pom.xml" />
+        <option value="$PROJECT_DIR$/integration_08/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

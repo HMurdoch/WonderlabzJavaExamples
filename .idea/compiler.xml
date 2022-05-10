@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="building_rest_01" />
+        <module name="accessing_data_mysql_06" />
+        <module name="building_rest_02" />
+        <module name="rabbitmq_broker_03" />
+        <module name="async_method_05" />
+        <module name="consuming_rest_02" />
+        <module name="spring_data_jpa_04" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="accessing_data_mysql_06" target="11" />
+      <module name="async_method_05" target="11" />
+      <module name="building_rest_01" target="11" />
+      <module name="building_rest_02" target="11" />
+      <module name="consuming_rest_02" target="11" />
+      <module name="integration_07" target="11" />
+      <module name="rabbitmq_broker_03" target="11" />
+      <module name="spring_data_jpa_04" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="accessing_data_mysql_06" options="-parameters" />
+      <module name="async_method_05" options="-parameters" />
+      <module name="building_rest_01" options="-parameters" />
+      <module name="building_rest_02" options="-parameters" />
+      <module name="consuming_rest_02" options="-parameters" />
+      <module name="integration_07" options="-parameters" />
+      <module name="rabbitmq_broker_03" options="-parameters" />
+      <module name="spring_data_jpa_04" options="-parameters" />
+    </option>
+  </component>
+</project>
